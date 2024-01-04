@@ -1,6 +1,3 @@
-Certainly! If your React app uses `react-icons` for iconography and `uuid` for generating unique identifiers, you can update the README to include these libraries in the "Libraries" section. Here's the modified README:
-
----
 
 # Note Taking App
 
@@ -80,4 +77,4 @@ Follow these steps to set up the project on your local machine:
 
 ## Screenshots
 
-![](src/video.gif)# NoteTakingApp
+![](src/video.gif)
